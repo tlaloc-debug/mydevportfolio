@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/mydevportfolio/static/css/main.aff46fe3.chunk.css",
-    "main.js": "/mydevportfolio/static/js/main.d1077bed.chunk.js",
-    "main.js.map": "/mydevportfolio/static/js/main.d1077bed.chunk.js.map",
+    "main.js": "/mydevportfolio/static/js/main.fafd2271.chunk.js",
+    "main.js.map": "/mydevportfolio/static/js/main.fafd2271.chunk.js.map",
     "runtime-main.js": "/mydevportfolio/static/js/runtime-main.9f240f57.js",
     "runtime-main.js.map": "/mydevportfolio/static/js/runtime-main.9f240f57.js.map",
-    "static/css/2.74195455.chunk.css": "/mydevportfolio/static/css/2.74195455.chunk.css",
-    "static/js/2.ecf03970.chunk.js": "/mydevportfolio/static/js/2.ecf03970.chunk.js",
-    "static/js/2.ecf03970.chunk.js.map": "/mydevportfolio/static/js/2.ecf03970.chunk.js.map",
+    "static/css/2.0cb7a5bf.chunk.css": "/mydevportfolio/static/css/2.0cb7a5bf.chunk.css",
+    "static/js/2.2b7b45ba.chunk.js": "/mydevportfolio/static/js/2.2b7b45ba.chunk.js",
+    "static/js/2.2b7b45ba.chunk.js.map": "/mydevportfolio/static/js/2.2b7b45ba.chunk.js.map",
     "index.html": "/mydevportfolio/index.html",
-    "static/css/2.74195455.chunk.css.map": "/mydevportfolio/static/css/2.74195455.chunk.css.map",
+    "static/css/2.0cb7a5bf.chunk.css.map": "/mydevportfolio/static/css/2.0cb7a5bf.chunk.css.map",
     "static/css/main.aff46fe3.chunk.css.map": "/mydevportfolio/static/css/main.aff46fe3.chunk.css.map",
-    "static/js/2.ecf03970.chunk.js.LICENSE.txt": "/mydevportfolio/static/js/2.ecf03970.chunk.js.LICENSE.txt",
-    "static/media/erick.29da1930.png": "/mydevportfolio/static/media/erick.29da1930.png",
+    "static/js/2.2b7b45ba.chunk.js.LICENSE.txt": "/mydevportfolio/static/js/2.2b7b45ba.chunk.js.LICENSE.txt",
     "static/media/fixcarcom.2156d6c4.png": "/mydevportfolio/static/media/fixcarcom.2156d6c4.png",
     "static/media/microinfocom.9bbd231d.png": "/mydevportfolio/static/media/microinfocom.9bbd231d.png",
     "static/media/mynewjobcom.813eaa79.png": "/mydevportfolio/static/media/mynewjobcom.813eaa79.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f240f57.js",
-    "static/css/2.74195455.chunk.css",
-    "static/js/2.ecf03970.chunk.js",
+    "static/css/2.0cb7a5bf.chunk.css",
+    "static/js/2.2b7b45ba.chunk.js",
     "static/css/main.aff46fe3.chunk.css",
-    "static/js/main.d1077bed.chunk.js"
+    "static/js/main.fafd2271.chunk.js"
   ]
 }
