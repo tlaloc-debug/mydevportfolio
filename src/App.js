@@ -24,8 +24,8 @@ class App extends Component {
     document.documentElement.lang = pickedLanguage;
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
-        ? `https://all-in-one-proxy.herokuapp.com/https://connectto.herokuapp.com//primarylanguage`
-        : `https://all-in-one-proxy.herokuapp.com/https://connectto.herokuapp.com//secondarylanguage`;
+        ? `https://all-in-one-proxy-3187fcbdcf4f.herokuapp.com/https://connectto-cdf4284ddfed.herokuapp.com//primarylanguage`
+        : `https://all-in-one-proxy-3187fcbdcf4f.herokuapp.com/https://connectto-cdf4284ddfed.herokuapp.com//secondarylanguage`;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -66,7 +66,7 @@ class App extends Component {
 
   loadSharedData() {
     $.ajax({
-      url: `https://all-in-one-proxy.herokuapp.com/https://connectto.herokuapp.com//information`,
+      url: `https://all-in-one-proxy-3187fcbdcf4f.herokuapp.com/https://connectto-cdf4284ddfed.herokuapp.com//information`,
       dataType: "json",
       cache: false,
       success: function (data) {
